@@ -1,0 +1,21 @@
+{
+  "name": "ToDo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Gus Escola <camagrock@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
